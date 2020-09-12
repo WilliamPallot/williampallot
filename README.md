@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I am a self taught developer have been learning working full time job in another industry.
+- ⚡ I am a self taught developer have been learning while working full time job in another industry.
 
 - 🔭 At the moment I am building out my portfolio website williampallot.com to display projects I have been working on.
 
